@@ -6,3 +6,5 @@ Clean Domain Name and URL test &amp; documentation
 
  - set CNAME record on DNS to ofs-olmo.github.io.
  - set custom domain s.plout.ch on Pages of this repo
+
+[second.md](second.md)
